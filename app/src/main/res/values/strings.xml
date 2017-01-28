@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ploy</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="activity_main_code_title">Код:</string>
+    <string name="activity_main_code_execute">Выполнить</string>
+    <string name="activity_main_result_title">Результат:</string>
+</resources>

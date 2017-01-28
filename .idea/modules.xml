@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ploy.iml" filepath="$PROJECT_DIR$/Ploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ployandroid/ployandroid.iml" filepath="$PROJECT_DIR$/ployandroid/ployandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ployexperiential/ployexperiential.iml" filepath="$PROJECT_DIR$/ployexperiential/ployexperiential.iml" />
+    </modules>
+  </component>
+</project>
